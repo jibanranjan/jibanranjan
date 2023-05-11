@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/jibanranjan debata" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jibanranjan debata" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/jibanranjan debata](https://www.linkedin.com/in/jibanranjan-debata-275128198/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jibanranjan debata" height="30" width="40" /></a>
 <a href="https://instagram.com/hashtag_jiban" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hashtag_jiban" height="30" width="40" /></a>
 </p>
 
